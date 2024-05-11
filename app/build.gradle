@@ -12,11 +12,11 @@ plugins {
 }
 
 android {
-    namespace 'com.devsphere.yourmoney'
+    namespace 'ru.raz0ne.mybudget'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.devsphere.yourmoney"
+        applicationId "ru.raz0ne.mybudget"
         minSdk 28
         targetSdk 33
         versionCode 2
